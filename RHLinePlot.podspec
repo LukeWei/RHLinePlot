@@ -16,7 +16,7 @@ A line plot library inspired by the Robinhood app.
   s.author           = { 'Wirawit Rueopas' => 'aun.wirawit@gmail.com' }
   s.source           = { :git => 'https://github.com/aunnnn/RHLinePlot.git', :tag => s.version.to_s }
  
-  s.source_files     = 'RHLinePlot/*.swift'
+  s.source_files     = 'Sources/RHLinePlot/*.swift'
   s.swift_version    = '5.0'
 
   s.ios.deployment_target = '13.0'
