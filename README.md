@@ -33,6 +33,10 @@ Play around with the example app to see possible customizations and the Robinhoo
 ## Installation
 ### Cocoapods
 `pod install RHLinePlot`
+### Swift Package Manager
+```swift
+.package(url: "https://github.com/aunnnn/RHLinePlot.git", .upToNextMajor(from: "0.1.1")),
+```
 
 Or just use the source however you like. The library is in folder `RHLinePlot`.
 
